@@ -6,6 +6,7 @@ layout: default
 
 <br>
 
+![image](https://github.com/lordson-silver/markdown-portfolio/blob/main/lordson.png)
 {% include 02-image.md %}
 
 <br>
