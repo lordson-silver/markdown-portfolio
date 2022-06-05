@@ -1,1 +1,1 @@
-[Find me on GitHub](github.com/lordson-silver)
+[Lordson Silver](github.com/lordson-silver)
