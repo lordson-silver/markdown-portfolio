@@ -1,1 +1,1 @@
-![Profile image](https://github.com/lordson-silver/markdown-portfolio/blob/main/lordson.png)
+![Profile image](https://freeimage.host/i/XyTYhb)
