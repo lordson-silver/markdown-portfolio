@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Profile image](https://github.com/lordson-silver/markdown-portfolio/blob/lordson-silver-patch-1/lordson.png)
