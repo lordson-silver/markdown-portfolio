@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+1. **I love Tennis**
+2. I love code
+3. I love music
+   1. I also love food
+   2. I love a lot of things yo
