@@ -1,5 +1,7 @@
-- **I love Tennis**
-- I love code
-- I love music
-   1. I also love food
-   2. I love a lot of things yo
+*This text is italicized*
+_This will also be italic_
+
+**This text is bold**
+__This will also be bold__
+
+_You **can** combine them_
